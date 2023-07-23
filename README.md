@@ -5,14 +5,20 @@ K-means is the most known clustering algorithm because of its usage simplicity, 
 
 To understand the efficiency of ImpKmeans, we compared it with classical k-means, k-means++, PAM, and Fuzzy k-means algorithms. Some of the obtained results of the experimental study are shared below. 
 
-![2d-20c](https://github.com/senolali/ImpKmeans/assets/72247990/f373465b-93ae-4819-9350-2196d8248488)
+
 
 <p align="center">
   <img src="./results/2d-20c_KDE.png" width="500"/>
 </p>
+![2d-20c](https://github.com/senolali/ImpKmeans/assets/72247990/f373465b-93ae-4819-9350-2196d8248488)
+
+<p align="center">
+  <img src="./results/Aggregation_KDE.png" width="500"/>
+</p>
+
 ![Aggregation](https://github.com/senolali/ImpKmeans/assets/72247990/d45ea3f9-06b4-4c99-912a-753d83592167)
 
-![Aggregation_KDE](https://github.com/senolali/ImpKmeans/assets/72247990/b55c0edf-8818-4d87-b3a0-3bee369df75a)
+
 
 If you are interested in the algorithm used in your study, please refer to the article shared below:
 
