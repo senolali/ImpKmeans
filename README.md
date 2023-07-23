@@ -7,7 +7,7 @@ To understand the efficiency of ImpKmeans, we compared it with classical k-means
 
 ![2d-20c](https://github.com/senolali/ImpKmeans/assets/72247990/f373465b-93ae-4819-9350-2196d8248488)
 
-![2d-20c_KDE](https://github.com/senolali/ImpKmeans/assets/72247990/ad760cda-bd2c-417c-9634-08cc1a2287fd | width=300)
+![2d-20c_KDE](https://github.com/senolali/ImpKmeans/Datasets/2d-20c_KDE.png | width=300)
 
 ![Aggregation](https://github.com/senolali/ImpKmeans/assets/72247990/d45ea3f9-06b4-4c99-912a-753d83592167)
 
