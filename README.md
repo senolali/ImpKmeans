@@ -23,6 +23,14 @@ To understand the efficiency of ImpKmeans, we compared it with classical k-means
   <img src="./results/Aggregation.png" />
 </p>
 
+<p align="center">
+  <img src="./results/S-set1_KDE.png" width="500"/>
+</p>
+
+<p align="center">
+  <img src="./results/S-set1.png" />
+</p>
+
 
 
 If you are interested in the algorithm used in your study, please refer to the article shared below:
