@@ -1,0 +1,4 @@
+# ImpKmeans
+Python Implementation of ImpKmeans which is an advanced version of Lloyd's k-means algorithm
+
+K-means is the most known clustering algorithm because of its usage simplicity, fast speed, and efficiency. However, resultant clusters are influenced by the randomly selected initial centroids. Therefore, many techniques have been implemented to solve the mentioned issue. In this paper, a new version of the k-means clustering algorithm named as ImpKmeans shortly(An Improved Version of K-Means Algorithm by Determining Optimum Initial Centroids Based on Multivariate Kernel Density Estimation and Kd-tree) that uses kernel density estimation to find the optimum initial centroids is proposed. Kernel density estimation is used because it is a nonparametric distribution estimation method that can find density regions.
