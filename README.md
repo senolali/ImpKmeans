@@ -11,7 +11,7 @@ To understand the efficiency of ImpKmeans, we compared it with classical k-means
   <img src="./results/2d-20c_KDE.png" width="500"/>
 </p>
 <p align="center">
-  <img src="./results/2d-20c.png" width="500"/>
+  <img src="./results/2d-20c.png" />
 </p>
 
 
@@ -20,7 +20,7 @@ To understand the efficiency of ImpKmeans, we compared it with classical k-means
 </p>
 
 <p align="center">
-  <img src="./results/Aggregation.png" width="500"/>
+  <img src="./results/Aggregation.png" />
 </p>
 
 
