@@ -35,5 +35,5 @@ To understand the efficiency of ImpKmeans, we compared it with classical k-means
 
 If you are interested in the algorithm used in your study, please refer to the article shared below:
 
-Şenol, A., (2023). "ImpKmeans: An Improved Version of K-Means Algorithm by Determining Optimum Initial Centroids Based on Multivariate Kernel Density Estimation and Kd-Tree", Acta Polytechnica Hungarica.
+Şenol, A., (2023). "ImpKmeans: An Improved Version of the K-Means Algorithm, by Determining Optimum Initial Centroids, based on Multivariate Kernel Density Estimation and Kd-Tree", Acta Polytechnica Hungarica,21(2), 111-131.
 
